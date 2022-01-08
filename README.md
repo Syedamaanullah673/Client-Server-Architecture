@@ -1,4 +1,4 @@
-# Client-server-architecture using opengl
+# Client-Server-Architecture
 
 ### OBJECTIVES OF THE PROJECT :
 
